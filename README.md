@@ -1,5 +1,5 @@
 # Adarsh Ramanujam's Portfolio
-This portfolio contains projects Adarsh Ramanujam has done in Python, R, and SQL. He is a data science student seeking experience in AI, Machine Learning, and other coding endeavors.
+This portfolio contains projects Adarsh Ramanujam has done in Python, R, and SQL. He is a college data science student seeking experience in AI, Machine Learning, and other coding endeavors. He is currently a junior in college.
 
 # Project 1: Marching into Madness  
 ### Languages Used: Python  
