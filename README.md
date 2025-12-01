@@ -1,7 +1,7 @@
 # Adarsh Ramanujam's Portfolio
 This portfolio contains projects Adarsh Ramanujam has done in Python, R, and SQL. He is currently a junior at UNC Chapel Hill who is pursuing data science and seeking experience in AI, Machine Learning, and other coding endeavors. 
 
-# Project 1: Geospatial Analysis of Death in North Carolina: How Income and Flu Vaccinations Contribute to Death Disparities 
+# Project 1: Geospatial Analysis of Death in North Carolina: How Income and Vaccination Rate Contribute to Death Disparities 
 • Multivariate Regression Analysis: Developed and implemented a multiple linear regression model to examine the relationship between county-level death rates (dependent variable) and two predictors: flu vaccination rates and median income (as a proxy for socioeconomic status) across North Carolina counties (2020-2025).  
 • Statistical Findings and Interpretation: Found that median income was a highly significant predictor of death rates, while the direct effect of flu vaccination rates was not statistically significant when controlling for income. This suggested that socioeconomic factors have a stronger, more statistically significant relationship with overall county death rates in the context of this model.  
 • Data Preparation and Spatial Visualization: Performed extensive data wrangling, including filtering to isolate North Carolina data, cleaning string variables (e.g., removing commas), and calculating death rates per population. Employed the sf and tmap packages to create choropleth maps visualizing the spatial distribution of flu vaccination rates, death rates, and model residuals across NC counties.  
