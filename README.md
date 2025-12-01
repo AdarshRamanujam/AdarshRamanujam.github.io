@@ -1,5 +1,5 @@
 # Adarsh Ramanujam's Portfolio
-This portfolio contains projects Adarsh Ramanujam has done in Python, R, and SQL. He is a college data science student seeking experience in AI, Machine Learning, and other coding endeavors. He is currently a junior at UNC Chapel Hill.
+This portfolio contains projects Adarsh Ramanujam has done in Python, R, and SQL. He is currently a junior at UNC Chapel Hill who is pursuing data science and seeking experience in AI, Machine Learning, and other coding endeavors. 
 
 # [Project 1: Marching into Madness](https://github.com/AdarshRamanujam/Marching-Into-Madness)  
 ### Languages Used: Python  
