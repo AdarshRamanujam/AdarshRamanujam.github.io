@@ -7,7 +7,11 @@ This portfolio contains projects Adarsh Ramanujam has done in Python, R, and SQL
 • Data Preparation and Spatial Visualization: Performed extensive data wrangling, including filtering to isolate North Carolina data, cleaning string variables (e.g., removing commas), and calculating death rates per population. Employed the sf and tmap packages to create choropleth maps visualizing the spatial distribution of flu vaccination rates, death rates, and model residuals across NC counties.  
 • Tool Stack: Utilized a comprehensive set of R packages, including tidyverse (for data manipulation), sf and tmap (for spatial data handling and visualization), tigris (for boundary data), and arcpullr (for data extraction), demonstrating proficiency in a diverse analytical and visualization tool stack.  
 
+![alt text](https://github.com/AdarshRamanujam/AdarshRamanujam.github.io/blob/main/images/Screenshot%20-%202025-11-30%2023-13-55.png)
+![alt text](https://github.com/AdarshRamanujam/AdarshRamanujam.github.io/blob/main/images/Screenshot%20-%202025-11-30%2023-14-31.png)
+![alt text](https://github.com/AdarshRamanujam/AdarshRamanujam.github.io/blob/main/images/Screenshot%20-%202025-11-30%2023-14-55.png)
 # [Project 2: Marching into Madness](https://github.com/AdarshRamanujam/Marching-Into-Madness)  
 ### Languages Used: Python  
 • Analyzed 20 years of NCAA Division I men’s basketball data (350+ teams) to explore correlations between regular season stats and postseason outcomes  
 • Built predictive models using multiple linear regression and k-NN clustering to forecast March Madness placement; achieved 85% accuracy for UNC’s 2025 postseason outcome  
+![alt text](https://github.com/AdarshRamanujam/AdarshRamanujam.github.io/blob/main/images/Screenshot%20-%202025-11-30%2023-16-00.png)
